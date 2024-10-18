@@ -1,0 +1,10 @@
+[
+  {"name": "l_orderkey", "type": "INT", "size": 4},
+  {"name": "l_partkey", "type": "INT", "size": 4},
+  {"name": "l_suppkey", "type": "INT", "size": 4},
+  {"name": "l_linenumber", "type": "INT", "size": 4},
+  {"name": "l_quantity", "type": "DOUBLE", "size": 8},
+  {"name": "l_extendedprice", "type": "DOUBLE", "size": 8},
+  {"name": "l_discount", "type": "DOUBLE", "size": 8},
+  {"name": "l_tax", "type": "DOUBLE", "size": 8}
+]

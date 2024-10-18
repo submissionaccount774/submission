@@ -1,0 +1,18 @@
+[
+  {"name": "l_orderkey", "type": "INT", "size": 4},
+  {"name": "l_partkey", "type": "INT", "size": 4},
+  {"name": "l_suppkey", "type": "INT", "size": 4},
+  {"name": "l_linenumber", "type": "INT", "size": 4},
+  {"name": "l_quantity", "type": "DOUBLE", "size": 8},
+  {"name": "l_extendedprice", "type": "DOUBLE", "size": 8},
+  {"name": "l_discount", "type": "DOUBLE", "size": 8},
+  {"name": "l_tax", "type": "DOUBLE", "size": 8},
+  {"name": "l_returnflag", "type": "CHAR", "size": 1},
+  {"name": "l_linestatus", "type": "CHAR", "size": 1},
+  {"name": "l_shipdate", "type": "STRING", "size": 11},
+  {"name": "l_commitdate", "type": "STRING", "size": 11},
+  {"name": "l_receiptdate", "type": "STRING", "size": 11},
+  {"name": "l_shipinstruct", "type": "STRING", "size": 26},
+  {"name": "l_shipmode", "type": "STRING", "size": 11},
+  {"name": "l_comment", "type": "STRING", "size": 45}
+]
